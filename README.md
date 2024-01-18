@@ -1,1 +1,1 @@
-# byu-studio
+# byul-studio
